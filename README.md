@@ -16,8 +16,6 @@ The system uses an eye-blink/IR sensor mounted on a spectacle frame. The microco
 ## 💻 The Code
 The core logic is written in C++ for the Arduino environment. It utilizes a state-machine approach rather than standard `delay()` functions, ensuring the processor is never blocked and can handle real-time sensor polling. 
 
-## 📸 Project Showcase
-*(Drop a photo of your spectacles here! Rename your photo to `project.jpg` and uncomment the line below)*
----
+
 **Built by Jaswanth Raj** | 
 *Vibe Coder | Building at the intersection of AI, Cybersecurity, and Embedded Systems. From networking concepts to wiring Arduino circuits*
