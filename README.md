@@ -1,6 +1,7 @@
 # 🕶️ Anti-Sleep Detection Spectacles
 
 An IoT-based wearable safety device designed to detect driver drowsiness and prevent accidents. Built with an Arduino Uno, this project monitors eye movement and triggers an alarm if the user falls asleep.
+![My Hardware Components](Components.jpg)
 
 ## 🚀 How It Works
 The system uses an eye-blink/IR sensor mounted on a spectacle frame. The microcontroller continuously monitors the sensor state using non-blocking time tracking (`millis()`). 
